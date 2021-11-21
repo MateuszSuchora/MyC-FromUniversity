@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1541670260 source:c:\users\user\documents\ms\listy\main.cpp
+	<iostream>
+	"Lista.h"
+
+1541666895 source:c:\users\user\documents\ms\listy\src\node.cpp
+	"Node.h"
+
+1541666895 c:\users\user\documents\ms\listy\include\node.h
+
+1541669896 source:c:\users\user\documents\ms\listy\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1541667862 c:\users\user\documents\ms\listy\include\lista.h
+	"Node.h"
+
+1541666895 source:c:\users\matie_000\documents\c++\algorytmy i str danych\listy\src\node.cpp
+	"Node.h"
+
+1541666895 c:\users\matie_000\documents\c++\algorytmy i str danych\listy\include\node.h
+
+1541749565 source:c:\users\matie_000\documents\c++\algorytmy i str danych\listy\main.cpp
+	<iostream>
+	"Lista.h"
+
+1541670526 c:\users\matie_000\documents\c++\algorytmy i str danych\listy\include\lista.h
+	"Node.h"
+
+1541749495 source:c:\users\matie_000\documents\c++\algorytmy i str danych\listy\src\lista.cpp
+	"Lista.h"
+	<iostream>
+

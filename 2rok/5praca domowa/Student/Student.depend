@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1515060813 source:c:\documents and settings\student\moje dokumenty\ms\4stycznia\student\main.cpp
+	<iostream>
+	<string>
+	"Osoba.h"
+	"Student.h"
+
+1515055118 c:\documents and settings\student\moje dokumenty\ms\4stycznia\student\include\osoba.h
+	<string>
+
+1515057594 c:\documents and settings\student\moje dokumenty\ms\4stycznia\student\include\student.h
+	<Osoba.h>
+
+1515059156 source:c:\documents and settings\student\moje dokumenty\ms\4stycznia\student\src\osoba.cpp
+	"Osoba.h"
+	<iostream>
+	<string>
+
+1515061346 source:c:\documents and settings\student\moje dokumenty\ms\4stycznia\student\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1515059156 source:c:\users\matie_000\downloads\zad 5\student\src\osoba.cpp
+	"Osoba.h"
+	<iostream>
+	<string>
+
+1515055118 c:\users\matie_000\downloads\zad 5\student\include\osoba.h
+	<string>
+
+1515605102 source:c:\users\matie_000\downloads\zad 5\student\main.cpp
+	<iostream>
+	<string>
+	"Osoba.h"
+	"Student.h"
+
+1515057594 c:\users\matie_000\downloads\zad 5\student\include\student.h
+	<Osoba.h>
+
+1515599256 source:c:\users\matie_000\downloads\zad 5\student\src\student.cpp
+	"Student.h"
+	<iostream>
+

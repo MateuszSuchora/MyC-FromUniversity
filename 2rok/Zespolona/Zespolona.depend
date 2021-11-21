@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1512642440 source:c:\documents and settings\student\moje dokumenty\ms\zespolona\main.cpp
+	<iostream>
+	<string>
+	"Zespolona.h"
+
+1512642296 source:c:\documents and settings\student\moje dokumenty\ms\zespolona\src\zespolona.cpp
+	"Zespolona.h"
+	<string>
+	<cmath>
+	<iostream>
+
+1512642051 c:\documents and settings\student\moje dokumenty\ms\zespolona\include\zespolona.h
+	<string>
+
+1512642440 source:c:\users\matie_000\documents\c++\2rok\zespolona\main.cpp
+	<iostream>
+	<string>
+	"Zespolona.h"
+
+1513101426 c:\users\matie_000\documents\c++\2rok\zespolona\include\zespolona.h
+	<string>
+
+1513101715 source:c:\users\matie_000\documents\c++\2rok\zespolona\src\zespolona.cpp
+	"Zespolona.h"
+	<string>
+	<cmath>
+	<iostream>
+

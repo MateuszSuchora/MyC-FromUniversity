@@ -1,0 +1,53 @@
+Program dostaje od u¿ytkownika pary liczb (ka¿da inna) ma wyœwietliæ parê b¹dŸ pary liczb o najmniejszej ró¿nicy.
+
+Wejœcie:
+
+program na pocz¹tku w pierwszej linii otrzymuje liczbê n<=100.
+nastêpnie w liniach otrzymuje n RÓ¯NYCH par liczb z zakresu od 0 do 1000.
+Wyjœcie:
+
+Program ma na pocz¹tku wyœwietliæ wartoœæ bezwzglêdn¹ najmniejszej ró¿nicy pomiêdzy liczbami w parach. Nastêpnie program ma wyœwietliæ parê (b¹dŸ pary, w przypadku, gdy jest ich wiêcej) liczb o najmniejszej ró¿nicy. Przez ró¿nicê rozumiemy ró¿nicê liczby wiêkszej od liczby mniejszej (ró¿nica bêdzie zawsze dodatnia). Pary maj¹ byæ wyœwietlone od najmniejszych do najwiêkszych. W parze tak¿e wyœwietlamy najpierw liczbê mniejsz¹ potem liczbê wiêksz¹.
+
+Przyk³ad 1
+
+Wejœcie:
+5
+4 8
+7 9
+1 5
+9 15
+13 10
+
+Wyjœcie:
+2
+7 9
+
+Przyk³ad 2
+
+Wejœcie:
+8
+4 8
+7 10
+1 5
+9 2
+13 11
+11 9
+75 60
+21 15
+
+Wyjœcie:
+2
+7 9
+9 11
+11 13
+
+Uwagi 1:
+
+Proszê oddaæ do oceny tylko jeden plik zawieraj¹cy ca³y kod programu.
+Program powinien dzia³aæ w z³o¿onoœci O(n log n).
+
+Uwagi 2:
+
+Zabronione jest u¿ywanie wbudowanych algorytmów sortuj¹cych.
+Programy, które siê nie kompiluj¹, bêd¹ oceniane na 0 punktów bez dalszego sprawdzania.
+Tak samo zostan¹ ocenione programy niesamodzielnie napisane (wystarczy podejrzane podobieñstwo).

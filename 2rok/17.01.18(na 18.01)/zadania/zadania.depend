@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1385316878 source:c:\documents and settings\student\moje dokumenty\ms\11.01.18\zadania\main.cpp
+	<iostream>
+
+1515664125 source:c:\documents and settings\student\moje dokumenty\ms\11.01.18\zadania\src\konto.cpp
+	"Konto.h"
+
+1515666312 c:\documents and settings\student\moje dokumenty\ms\11.01.18\zadania\include\konto.h
+	<iostream>
+	<string>
+	<cmath>
+
+1515665618 source:c:\documents and settings\student\moje dokumenty\ms\11.01.18\zadania\src\kredyt.cpp
+	"Kredyt.h"
+	"Konto.h"
+
+1515664667 c:\documents and settings\student\moje dokumenty\ms\11.01.18\zadania\include\kredyt.h
+	"Konto.h"
+
+1515664124 source:c:\users\matie_000\downloads\11.01.18\zadania\src\konto.cpp
+	"Konto.h"
+
+1515666312 c:\users\matie_000\downloads\11.01.18\zadania\include\konto.h
+	<iostream>
+	<string>
+	<cmath>
+
+1515666454 source:c:\users\matie_000\downloads\11.01.18\zadania\src\kontolimitowane.cpp
+	"KontoLimitowane.h"
+	"Konto.h"
+
+1515666368 c:\users\matie_000\downloads\11.01.18\zadania\include\kontolimitowane.h
+	<Konto.h>
+
+1515665618 source:c:\users\matie_000\downloads\11.01.18\zadania\src\kredyt.cpp
+	"Kredyt.h"
+	"Konto.h"
+
+1515664666 c:\users\matie_000\downloads\11.01.18\zadania\include\kredyt.h
+	"Konto.h"
+

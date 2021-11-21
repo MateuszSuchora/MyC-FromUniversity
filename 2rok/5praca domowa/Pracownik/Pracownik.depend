@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1515607283 source:c:\users\matie_000\downloads\zad 5\pracownik\main.cpp
+	<iostream>
+	"Pracownik.h"
+	<string>
+
+1515605337 source:c:\users\matie_000\downloads\zad 5\pracownik\src\osoba.cpp
+	"Osoba.h"
+	<iostream>
+	<string>
+
+1515605310 c:\users\matie_000\downloads\zad 5\pracownik\include\osoba.h
+	<string>
+
+1515607478 source:c:\users\matie_000\downloads\zad 5\pracownik\src\pracownik.cpp
+	"Pracownik.h"
+	<iostream>
+
+1515606566 c:\users\matie_000\downloads\zad 5\pracownik\include\pracownik.h
+	<Osoba.h>
+

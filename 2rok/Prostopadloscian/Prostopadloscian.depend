@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\matie_000\documents\c++\2rok\prostopadloscian\main.cpp
+	<iostream>
+
+1513098245 source:c:\users\matie_000\documents\c++\2rok\prostopadloscian\src\prostokat.cpp
+	"Prostokat.h"
+
+1513098196 c:\users\matie_000\documents\c++\2rok\prostopadloscian\include\prostokat.h
+

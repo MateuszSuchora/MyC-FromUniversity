@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1541757663 source:c:\users\user\documents\mateuszs\stos_kolejka\main.cpp
+	<iostream>
+	"Node.h"
+	"Stos.h"
+	"Kolejka.h"
+
+1541755589 source:c:\users\user\documents\mateuszs\stos_kolejka\src\node.cpp
+	"Node.h"
+
+1541755560 c:\users\user\documents\mateuszs\stos_kolejka\include\node.h
+
+1541757174 source:c:\users\user\documents\mateuszs\stos_kolejka\src\stos.cpp
+	"Stos.h"
+
+1541756605 c:\users\user\documents\mateuszs\stos_kolejka\include\stos.h
+	"Node.h"
+
+1541757511 source:c:\users\user\documents\mateuszs\stos_kolejka\src\kolejka.cpp
+	"Kolejka.h"
+
+1541759021 c:\users\user\documents\mateuszs\stos_kolejka\include\kolejka.h
+	"Node.h"
+
+1542270994 source:c:\users\user\downloads\stos_kolejka\src\kolejka.cpp
+	"Kolejka.h"
+	<iostream>
+
+1541759021 c:\users\user\downloads\stos_kolejka\include\kolejka.h
+	"Node.h"
+
+1541755560 c:\users\user\downloads\stos_kolejka\include\node.h
+
+1541755589 source:c:\users\user\downloads\stos_kolejka\src\node.cpp
+	"Node.h"
+
+1541757174 source:c:\users\user\downloads\stos_kolejka\src\stos.cpp
+	"Stos.h"
+
+1541756605 c:\users\user\downloads\stos_kolejka\include\stos.h
+	"Node.h"
+
+1542275260 source:c:\users\user\downloads\stos_kolejka\main.cpp
+	<iostream>
+	"Node.h"
+	"Stos.h"
+	"Kolejka.h"
+
+1542275476 source:c:\users\matie_000\downloads\stos_kolejka\main.cpp
+	<iostream>
+	"Node.h"
+	"Stos.h"
+	"Kolejka.h"
+
+1541755560 c:\users\matie_000\downloads\stos_kolejka\include\node.h
+
+1541756605 c:\users\matie_000\downloads\stos_kolejka\include\stos.h
+	"Node.h"
+
+1541759021 c:\users\matie_000\downloads\stos_kolejka\include\kolejka.h
+	"Node.h"
+
+1542789890 source:c:\users\matie_000\downloads\stos_kolejka\src\kolejka.cpp
+	"Kolejka.h"
+	<iostream>
+
+1541755589 source:c:\users\matie_000\downloads\stos_kolejka\src\node.cpp
+	"Node.h"
+
+1541757174 source:c:\users\matie_000\downloads\stos_kolejka\src\stos.cpp
+	"Stos.h"
+
